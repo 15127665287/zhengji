@@ -1,0 +1,90 @@
+.top2{
+	height: 1.75rem;
+	box-shadow: -0.125rem -0.125rem 0.5rem #ECECEC;
+}
+.top{
+	height: 1.75rem;
+	margin-top: 1.1rem;
+	box-shadow: 0.125rem 0.125rem 0.5rem #ECECEC;
+	position: relative;
+}
+.top p{
+	text-align: center;
+	font-size: 0.6rem;
+	line-height: 1.75rem;
+	color:#006FB7;
+}
+.top .img1{
+	position: absolute;
+	top:-0.35rem; left:-0.35rem;
+}
+.top .img2{
+	position: absolute;;
+	top:-0.35rem; right:-0.35rem;
+}
+
+.imgs1{
+	margin-top:1.5rem;
+	margin-bottom: 1.5rem;
+}
+.content1 p{
+	font-size: 0.58rem;
+	text-indent: 2em;
+	line-height: 0.85rem;
+}
+.content2 p{
+	font-size: 0.58rem;
+	text-indent: 2em;
+	line-height: 0.85rem;
+}
+.content2{
+	margin-top: 1.5rem;
+}
+
+.imgs2{
+	margin-top: 2.5rem;
+}
+.content3 p{
+	font-size: 0.58rem;
+	text-indent: 2em;
+	line-height: 0.85rem;
+}
+.content3{
+	margin-top: 1.5rem;
+}
+.imgs3{
+	margin-top: 1.5rem;
+}
+.content4 p{
+	font-size: 0.58rem;
+	text-indent: 2em;
+	line-height: 0.85rem;
+}
+.content4{
+	margin-top: 1.5rem;
+}
+.imgs4{
+	margin-top: 1.5rem;
+}
+.imgs5{
+	margin-top: 1.5rem;
+}
+.content5 p{
+	font-size: 0.5rem;
+	margin-left: 140px;
+	margin-top: 0.6rem;
+}
+.content5 span{
+	margin-left: 1rem;
+}
+.imgs6{
+	margin-top: 1.75rem;
+}
+.content6 p{
+	font-size: 0.5rem;
+	line-height: 0.85rem;
+}
+.content6{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
